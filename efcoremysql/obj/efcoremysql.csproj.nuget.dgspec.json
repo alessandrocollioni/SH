@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/alessandro/Documentos/SLC/Projeto/efcoremysql/efcoremysql.csproj": {}
+    "/home/alessandro/Documentos/git_alessandro/GitSH/efcoremysql/efcoremysql.csproj": {}
   },
   "projects": {
-    "/home/alessandro/Documentos/SLC/Projeto/efcoremysql/efcoremysql.csproj": {
+    "/home/alessandro/Documentos/git_alessandro/GitSH/efcoremysql/efcoremysql.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/alessandro/Documentos/SLC/Projeto/efcoremysql/efcoremysql.csproj",
+        "projectUniqueName": "/home/alessandro/Documentos/git_alessandro/GitSH/efcoremysql/efcoremysql.csproj",
         "projectName": "efcoremysql",
-        "projectPath": "/home/alessandro/Documentos/SLC/Projeto/efcoremysql/efcoremysql.csproj",
+        "projectPath": "/home/alessandro/Documentos/git_alessandro/GitSH/efcoremysql/efcoremysql.csproj",
         "packagesPath": "/home/alessandro/.nuget/packages/",
-        "outputPath": "/home/alessandro/Documentos/SLC/Projeto/efcoremysql/obj/",
+        "outputPath": "/home/alessandro/Documentos/git_alessandro/GitSH/efcoremysql/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
